@@ -20,7 +20,7 @@ Submit detailed answers to these in this file via a pull request.
 -   The data structure you plan to use.
   - ajax and JQuery?
 -   How you will take the markup of the game board and represent it in JS
-  - i dont understand the question. I plan to type it on a keyboard.
+  - ill use jQuery to retrieve elements from HTML and use them in JS.
 -   How you plan to approach this project.
   - write html first, then styling, then code the signUp/in/out, then code gameplay.
 -   4-8 user stories for your game project.
